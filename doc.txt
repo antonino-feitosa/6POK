@@ -16,14 +16,19 @@ Lista de Tipos
 Deserto (areia) - desértico
 Oceano (água) - aquático
 Montanha (rocha) - rochoso
+
 Floresta (grama) - florestal
 Planalto (ar) - elevado
 Caverna (escuridão) - sombrio
+
 Vulcão (fogo) - fervente
 Campo (normal) - abertas
 Neve (gelo) - gelado
+
+Magia (magia) - mágico
 Mente (psiquico) - imaginário
 Astral (fantasma) - astral
+
 Cidade (elétrico) - urbanas
  
 
