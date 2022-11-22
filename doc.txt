@@ -48,7 +48,6 @@ Adax
 Alce
 Almiqui
 Anta
-Antílope
 Arganaz
 Asellia
 Asno
@@ -66,6 +65,7 @@ Bâmbi
 Búfalo
 Caama
 Cabra
+Cabra-de-Leque
 Cachorro
 Caenolestes
 Caititu
@@ -75,6 +75,8 @@ Camundongo
 Canguru
 Castor
 Cavalo
+Cacu
+Caxine
 Cervo
 Chinchila
 Chimpanzé
@@ -82,6 +84,7 @@ Civeta
 Coala
 Coelho
 Colocolo
+Cobo
 Corça
 Cudo
 Cutia
@@ -89,7 +92,9 @@ Cuscos
 Dassie
 Dasyurus
 Demônio-da-tasmânia
+Dryomys
 Dugongo
+Elande
 Elefante
 Equidnas
 Esquilo
@@ -102,6 +107,7 @@ Gazela
 Genetta
 Gibão
 Girafa
+Glis
 Glutão
 Gnu
 Golfinho
@@ -112,6 +118,7 @@ Hamster
 Hiena
 Hipopótamo
 Hirola
+Inhala
 Impala
 Inia
 Jaguar
@@ -142,10 +149,11 @@ Orangotango
 Orca
 Oribi
 Ornitorrinco
-Oryx
+Órix
 Ouriço
 Ovelha
 Paca
+Palanca
 Panda
 Pangolin
 Pantera
@@ -162,11 +170,14 @@ Quati
 Quokka
 Ratazana
 Rato
+Redunca
 Rena
 Rinoceronte
 Sagui
 Saiga
 Serval
+Sitatunga
+Songue
 Suricate
 Tahr
 Tamanduás
