@@ -24,12 +24,16 @@ Caverna (escuridão) - sombrio
 Vulcão (fogo) - fervente
 Campo (normal) - abertas
 Neve (gelo) - gelado
+Cidade (elétrico) - urbanas
+
+Céu (sagrado) - Sagrado
+Inferno (profano) - Profano
 
 Magia (magia) - mágico
-Mente (psiquico) - imaginário
+Mente (psíquico) - imaginário
 Astral (fantasma) - astral
 
-Cidade (elétrico) - urbanas
+
  
 
 
