@@ -22,3 +22,9 @@
 ### Issues
 
 ### Future Works
+
+### References
+[https://ict.usc.edu/pubs/Computational%20Models%20of%20Emotion.pdf]
+[https://people.idsia.ch/~steunebrink/Publications/KI09_OCC_revisited.pdf]
+[https://www.uv.mx/rmipe/files/2017/12/handbook_of_cognition_and_emotion.pdf]
+[https://bulbapedia.bulbagarden.net/wiki/Stat]
