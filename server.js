@@ -9,5 +9,8 @@ app.use('/favicon.ico', express.static('adax.ico'));
 
 let port = 80;
 
+// Can not run php
+//https://www.npmjs.com/package/php-express
+
 app.listen(port);
 console.log('server on', port);
