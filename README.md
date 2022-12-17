@@ -54,11 +54,10 @@ As estatísticas de um animal dependem dos valores base (BV), dos valores indivi
 
 Os valores das estatísticas são determinados pela fórmula abaixo:
 
-```math
-BaseValue = floor([ (2 * BV + IV + floor(EV/4) ) * NV] / 100)
-PV = BaseValue + NV + 10
-OTHERS = floor( (BaseValue + 5) * NATURE)
-```
+$$ BaseValue = floor([ (2 * BV + IV + floor(EV/4) ) * NV] / 100) $$
+$$ PV = BaseValue + NV + 10 $$
+$$ OTHERS = floor( (BaseValue + 5) * NATURE) $$
+
 Em que PV corresponde à estatística dos pontos de vida e OTHERS corresponde às demais estatísticas sendo que NATURE é o modificador da estatística, caso ele seja aplicável, caso contrário é 1.
 
 #### Natureza
