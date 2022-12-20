@@ -35,6 +35,17 @@ A aceitação do convite é aleatória, no entanto, certos eventos podem aumenta
 
 ## Mecânicas do Jogo
 
+### O Cenário
+
+O cenário consiste num conjunto de áreas selvagens interconectados. Uma área selvagem pode conter passagens para outras áreas, esconderijos, plantas (arbustos, árvores, flores, legumes, verduras, frutas, raízes, sementes, néctar), obstáculos, nascentes, sal (pedras de sal).
+
+- Os esconderijos são área em que o animal não é visível pelos demais e são representados no cenário por pequenos arbustos distribuídos ao longo da área. Os arbustos pode ser formados por mais de uma posição de modo que os animais conseguem perceber outros animais nos arburtos conectados ou fora do arbusto, porém, animais que estão do lado de fora não conseguem percerber os animais que estão escondidos no arbusto.
+
+- As plantas atuam como fonte de alimentos para os animais. Por exemplo, elas produzem verduras (folhas, flores, pólen),  legumes (frutas, sementes, néctar), raízes, abrigo (arbustos, sombra, troncos de árvores mortas, buracos nas árvores e raízes) atráves de árvores ou pequenas plantas. As plantas crescem produzindo os alimentos periodicamente. As verduras e raízes geram poucos alimentos, porém, crescem rapidamente. Já as árvores demoram muito para crescer e geram frutos rapidamente quando estão no periódo. Além disso, existem áreas de solo fértil nos quais podem ser plantadas sementes dando gerando plantas. Tais áreas possuem uma pequena chance de que uma planta se desenvolva espontaneamente.
+
+- As nascentes são áreas de água fresca em que o animal pode recuperar seus valores de estatísticas assim como as pedras de sal.
+
+
 ### Animais
 
 Cada animal possui um conjunto de valores numéricos denominados de estatísticas que afetam o comportamento do animal. São divididos em seis valores principais:
@@ -55,7 +66,9 @@ As estatísticas de um animal dependem dos valores base (BV), dos valores indivi
 Os valores das estatísticas são determinados pela fórmula abaixo:
 
 $$ BaseValue = floor([ (2 * BV + IV + floor(EV/4) ) * NV] / 100) $$
+
 $$ PV = BaseValue + NV + 10 $$
+
 $$ OTHERS = floor( (BaseValue + 5) * NATURE) $$
 
 Em que PV corresponde à estatística dos pontos de vida e OTHERS corresponde às demais estatísticas sendo que NATURE é o modificador da estatística, caso ele seja aplicável, caso contrário é 1.

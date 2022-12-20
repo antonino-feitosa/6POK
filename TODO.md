@@ -3,6 +3,48 @@
 
 ### Development Plan
 
+#### Imediato
+
+- [ ] Criar passagens;
+    - [ ] Manter estados das áreas;
+    - [ ] Criar grafo de áreas;
+- [ ] Criar esconderijos;
+    - [ ] Tocas no solo;
+    - [ ] Troncos de árvores;
+    - [ ] Arbustos;
+    - [ ] Tocas nas árvores;
+    - [ ] Tocas nas rochas;
+- [ ] Implementar a visibilidades nos esconderijos;
+- [ ] Implementar visualização das estatísticas;
+- [ ] Implementar mensagem de feedback;
+- [ ] Criar as fontes;
+- [ ] Criar pedras de sal;
+- [ ] Implementar visualização do inventório;
+- [ ] Criar plantas;
+    - [ ] Criar frutas e sementes;
+    - [ ] Criar folhas, flores, néctar e pólen;
+    - [ ] Criar raízes;
+    - [ ] Implementar produção periódica;
+    - [ ] Criar áreas férteis;
+    - [ ] Implementar a plantação de sementes;
+        - [ ] Implementar mensagem de ação e acesso ao invetório;
+    - [ ] Implementar crescimentos das plantas;
+    - [ ] Implementar nascimentos espontâneo;
+- [ ] Implementar comportamentos dos animais (individuais):
+    - [ ] Fugir
+    - [ ] Lutar
+    - [ ] Esconder
+    - [ ] Migrar
+    - [ ] Hibernar
+    - [ ] Reproduzir
+    - [ ] Caçar
+    - [ ] Pastar
+    - [ ] Coletar
+    - [ ] Patrular
+    - [ ] Seguir
+
+#### Próximos Passos
+
 - [ ] Criar classe de animais.
 - [ ] Criar atributos.
 - [ ] Criar malha com animais.
@@ -34,3 +76,6 @@
 [https://bulbapedia.bulbagarden.net/wiki/Stat]
 
 [https://stackoverflow.com/questions/6542169/execute-php-scripts-within-node-js-web-server]
+
+[https://saberhortifruti.com.br/frutas-legumes-e-verduras]
+
