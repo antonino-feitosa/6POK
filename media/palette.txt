@@ -1,0 +1,84 @@
+GIMP Palette
+Name: 6POK Game Palette
+Columns: 5
+#
+163, 125,  47,  sand shadow
+102,  78,  30,  sand dark
+227, 173,  66,  sand light
+240, 183,  70,  sand clear
+238, 182,  70,  sand normal
+100, 153, 163,  water shadow
+ 62,  95, 102,  water dark
+138, 212, 227,  water light
+146, 224, 240,  water clear
+128, 197, 211,  water normal
+163,  96,  47,  rock shadow
+102,  60,  30,  rock dark
+227, 133,  66,  rock light
+240, 140,  70,  rock clear
+200, 117,  59,  rock normal
+103, 163,  65,  grass shadow
+ 64, 102,  41,  grass dark
+143, 227,  91,  grass light
+151, 240,  96,  grass clear
+126, 200,  80,  grass normal
+144, 163, 163,  air shadow
+ 90, 102, 102,  air dark
+200, 227, 226,  air light
+211, 240, 239,  air clear
+224, 255, 254,  air normal
+163, 163, 163,  dark shadow
+ 99,  99,  99,  dark dark
+227, 227, 227,  dark light
+243, 243, 243,  dark clear
+ 35,  35,  35,  dark normal
+163,  52,  21,  fire shadow
+ 99,  32,  13,  fire dark
+227,  72,  30,  fire light
+242,  77,  31,  fire clear
+240,  78,  31,  fire normal
+167, 166, 132,  normal shadow
+ 99,  99,  79,  normal dark
+227, 225, 179,  normal light
+240, 238, 189,  normal clear
+201, 200, 159,  normal normal
+133, 156, 166,  ice shadow
+ 80,  93,  99,  ice dark
+182, 213, 227,  ice light
+192, 225, 240,  ice clear
+189, 222, 236,  ice normal
+166, 166,  33,  eletric shadow
+ 99,  99,  20,  eletric dark
+227, 227,  45,  eletric light
+240, 240,  48,  eletric clear
+255, 255,  51,  eletric normal
+166, 166, 156,  holy shadow
+ 99,  99,  93,  holy dark
+227, 227, 213,  holy light
+240, 240, 225,  holy clear
+255, 255, 240,  holy normal
+ 66,   0,   0,  profane shadow
+207,   0,   0,  profane dark
+143,   0,   0,  profane light
+105,   0,   0,  profane clear
+130,   0,   0,  profane normal
+ 41,   0,  69,  magic shadow
+125,   0, 209,  magic dark
+ 87,   0, 145,  magic light
+ 64,   0, 107,  magic clear
+ 80,   0, 133,  magic normal
+145,   1,  85,  psychic shadow
+ 82,   1,  48,  psychic dark
+222,   2, 130,  psychic light
+184,   2, 108,  psychic clear
+209,   2, 123,  psychic normal
+ 87, 145,  98,  ghost shadow
+ 49,  82,  55,  ghost dark
+133, 222, 149,  ghost light
+110, 184, 124,  ghost clear
+125, 209, 140,  ghost normal
+ 92, 130, 145,  metal shadow
+ 51,  73,  82,  metal dark
+140, 199, 222,  metal light
+116, 164, 184,  metal clear
+131, 187, 209,  metal normal

@@ -45,6 +45,23 @@ O cenário consiste num conjunto de áreas selvagens interconectados. Uma área 
 
 - As nascentes são áreas de água fresca em que o animal pode recuperar seus valores de estatísticas assim como as pedras de sal.
 
+Além disso, os cenários podem apresentar diferentes temáticas:
+- Deserto (areia) - desértico
+- Oceano (água) - aquático
+- Montanha (rocha) - rochoso
+- Floresta (grama) - florestal
+- Planalto (ar) - elevado
+- Caverna (escuridão) - sombrio
+- Vulcão (fogo) - fervente
+- Campo (normal) - abertas
+- Neve (gelo) - polar
+- Cidade (elétrico) - urbanas
+- Céu (sagrado) - Sagrado
+- Inferno (profano) - Profano
+- Magia (magia) - mágico
+- Mente (psíquico) - imaginário
+- Astral (fantasma) - astral
+
 
 ### Animais
 

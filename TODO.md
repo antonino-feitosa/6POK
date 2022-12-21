@@ -6,8 +6,8 @@
 #### Imediato
 
 - [x] Atualizar para a versão atual do ImpactJS
-- [ ] Aumentar a área dos mapas;
-- [ ] Adicionar uma câmera;
+- [x] Aumentar a área dos mapas;
+- [x] Adicionar uma câmera;
 - [ ] Criar passagens;
     - [ ] Manter estados das áreas;
     - [ ] Criar grafo de áreas;
@@ -81,4 +81,6 @@
 [https://stackoverflow.com/questions/6542169/execute-php-scripts-within-node-js-web-server]
 
 [https://saberhortifruti.com.br/frutas-legumes-e-verduras]
+
+[https://color.adobe.com/pt/create/color-wheel]
 
