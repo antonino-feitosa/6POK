@@ -94,3 +94,7 @@ Logo, temos um total de 25 naturezas e cada uma aumenta uma estatística em 10% 
 </table>
 
  
+ ### Referências
+
+ [https://github.com/phoboslab/Impact]
+ 

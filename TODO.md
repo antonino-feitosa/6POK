@@ -5,6 +5,7 @@
 
 #### Imediato
 
+- [ ] Atualizar para a versão atual do ImpactJS
 - [ ] Aumentar a área dos mapas;
 - [ ] Adicionar uma câmera;
 - [ ] Criar passagens;
