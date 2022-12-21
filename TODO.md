@@ -5,6 +5,8 @@
 
 #### Imediato
 
+- [ ] Aumentar a área dos mapas;
+- [ ] Adicionar uma câmera;
 - [ ] Criar passagens;
     - [ ] Manter estados das áreas;
     - [ ] Criar grafo de áreas;
