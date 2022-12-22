@@ -8,8 +8,8 @@
 - [x] Atualizar para a versão atual do ImpactJS
 - [x] Aumentar a área dos mapas;
 - [x] Adicionar uma câmera;
-- [ ] Criar passagens;
-    - [ ] Manter estados das áreas;
+- [x] Criar passagens;
+    - [ ] Manter estados das áreas; Manter informações no game class.
     - [ ] Criar grafo de áreas;
 - [ ] Criar esconderijos;
     - [ ] Tocas no solo;
@@ -68,6 +68,8 @@
 
 ### Future Works
 
+- [ ] Adicionar imagens de transição entre tipos de mapas usando transparência
+
 ### References
 
 [https://ict.usc.edu/pubs/Computational%20Models%20of%20Emotion.pdf]
@@ -84,3 +86,4 @@
 
 [https://color.adobe.com/pt/create/color-wheel]
 
+[https://www.piskelapp.com/p/create/sprite]
