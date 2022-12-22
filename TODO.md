@@ -87,3 +87,7 @@
 [https://color.adobe.com/pt/create/color-wheel]
 
 [https://www.piskelapp.com/p/create/sprite]
+
+[https://www.npmjs.com/package/cgijs]
+
+[https://www.skypack.dev/view/cgijs]

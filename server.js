@@ -4,7 +4,7 @@ const sphp = require("sphp");
 const bodyParser = require('body-parser');
 
 const app = express();
-app.use(bodyParser.urlencoded({extended: false}))
+app.use(bodyParser.urlencoded({extended: true}))
 app.use(bodyParser.json());
 app.use(sphp.express('./'));
 app.use(express.static('./'))
