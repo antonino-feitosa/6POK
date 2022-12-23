@@ -70,9 +70,10 @@
 
 ### Issues
 
-- [ ] O animal move-se uma vez a cada duas do jogador;
+- [x] O animal move-se uma vez a cada duas do jogador;
 - [x] O jogador deve mudar de direção oposta sem se mover;
 - [ ] Está sendo disparada a colisão com outro objeto quando o animal colide com a borda do mapa.
+- [ ] A grama não está escondendo os animais.
 
 ### Future Works
 
