@@ -45,6 +45,10 @@
     - [ ] Coletar
     - [ ] Patrular
     - [ ] Seguir
+    - [ ] Dormir
+    - [ ] Descansar
+    - [ ] Procurar
+    - [ ] Explorar
 
 #### Próximos Passos
 
