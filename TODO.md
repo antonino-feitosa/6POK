@@ -9,8 +9,8 @@
 - [x] Aumentar a área dos mapas;
 - [x] Adicionar uma câmera;
 - [x] Criar passagens;
-    - [ ] Manter estados das áreas; Manter informações no game class.
-    - [ ] Criar grafo de áreas;
+    - [x] Manter estados das áreas; Manter informações no game class.
+    - [x] Criar grafo de áreas;
 - [ ] Criar esconderijos;
     - [ ] Tocas no solo;
     - [ ] Troncos de árvores;
