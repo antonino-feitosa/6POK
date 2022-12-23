@@ -73,7 +73,8 @@
 - [x] O animal move-se uma vez a cada duas do jogador;
 - [x] O jogador deve mudar de direção oposta sem se mover;
 - [ ] Está sendo disparada a colisão com outro objeto quando o animal colide com a borda do mapa.
-- [ ] A grama não está escondendo os animais.
+- [x] A grama não está escondendo os animais.
+- [ ] PHP está sendo processado uma única vez. Já testei deferentes pacotes como node-php, php-express, mas nenhum funcionou melhor que o SPHP. Testar node CGI implementando midlleware para processsar PHP ou então interceptar as páginas PHP substituindo-as por código JS.
 
 ### Future Works
 
