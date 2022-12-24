@@ -14,7 +14,7 @@
 - [ ] Criar esconderijos;
     - [ ] Tocas no solo;
     - [ ] Troncos de árvores;
-    - [ ] Arbustos;
+    - [x] Arbustos;
     - [ ] Tocas nas árvores;
     - [ ] Tocas nas rochas;
 - [ ] Implementar a visibilidades nos esconderijos;
@@ -52,6 +52,9 @@
 
 #### Próximos Passos
 
+- [ ] Criar grupo de entidades que compartilham o mesmo idgroup no mapa.
+- [ ] Criar mapa de testes.
+- [ ] Criar aleatorização dos animais.
 - [ ] Criar classe de animais.
 - [ ] Criar atributos.
 - [ ] Criar malha com animais.
@@ -72,7 +75,7 @@
 
 - [x] O animal move-se uma vez a cada duas do jogador;
 - [x] O jogador deve mudar de direção oposta sem se mover;
-- [ ] Está sendo disparada a colisão com outro objeto quando o animal colide com a borda do mapa.
+- [x] Está sendo disparada a colisão com outro objeto quando o animal colide com a borda do mapa.
 - [x] A grama não está escondendo os animais.
 - [ ] PHP está sendo processado uma única vez. Já testei deferentes pacotes como node-php, php-express, mas nenhum funcionou melhor que o SPHP. Testar node CGI implementando midlleware para processsar PHP ou então interceptar as páginas PHP substituindo-as por código JS.
 
@@ -101,3 +104,23 @@
 [https://www.npmjs.com/package/cgijs]
 
 [https://www.skypack.dev/view/cgijs]
+
+[https://www.autodraw.com/]
+
+[https://pagespeed.web.dev/]
+
+[https://br.pinterest.com/pin/805159239621369051/]
+
+[https://br.pinterest.com/pin/854980310498634254/]
+
+[https://opengameart.org/forumtopic/pixel-art-tutorials-by-sadfacerl]
+
+[https://br.pinterest.com/pin/546483736034220527/]
+
+[https://br.pinterest.com/pin/554646510366402171/]
+
+[https://lospec.com/pixel-art-tutorials/tags/animation]
+
+[https://imgur.com/gallery/VN8e8t7]
+
+[https://imgur.com/user/SadfaceRL]
