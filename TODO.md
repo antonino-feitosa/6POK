@@ -17,7 +17,7 @@
     - [x] Arbustos;
     - [ ] Tocas nas árvores;
     - [ ] Tocas nas rochas;
-- [ ] Implementar a visibilidades nos esconderijos;
+- [x] Implementar a visibilidades nos esconderijos;
 - [ ] Implementar visualização das estatísticas;
 - [ ] Implementar mensagem de feedback;
 - [ ] Criar as fontes;
@@ -51,6 +51,8 @@
     - [ ] Explorar
 
 #### Próximos Passos
+
+- [ ] Adicionar comportamentos na classe de animais que podem ser selecionados pelo settings. Por exemplo, o comportamento jogador direciona as ações para as entradas do usuário sobrescevendo o método process.
 
 - [ ] Criar grupo de entidades que compartilham o mesmo idgroup no mapa.
 - [ ] Criar mapa de testes.

@@ -25,13 +25,22 @@ Em comum, temos o sistema de batalha, tipos, atributos, itens e evolução.
 
 ## Interface do Jogo
 
-O jogo é apresentado por uma malha hexagonal de dimensões fixas.
-As malhas contêm portais para outras regiões que levam a outras malhas representando áreas selvagens.
-As áreas selvagens contêm esconderijos de onde podem surgir animais assim como eles podem fugir e se esconder.
-O usuário pode controlar um ou mais animais na malha de modo que cada animal ocupa uma posição distinta.
-Cada animal atua num sistema de turnos baseado em tempo ativo, isto é, o tempo de um turno depende dos atributos do animal de modo que animais mais rápidos podem atuar mais vezes por turno que um animal mais lento.
-Não é possível capturar outros animais, mas é possível convidá-lo para integrar o bando.
-A aceitação do convite é aleatória, no entanto, certos eventos podem aumentar ou diminuir as chances de sucesso.
+- O jogo é apresentado por uma malha hexagonal de dimensões fixas.
+- As malhas contêm portais para outras regiões que levam a outras malhas representando áreas selvagens.
+- As áreas selvagens contêm esconderijos de onde podem surgir animais assim como eles podem fugir e se esconder.
+- O usuário pode controlar um ou mais animais na malha de modo que cada animal ocupa uma posição distinta.
+- O usuário inicia com um animal aleatório.
+- Cada animal atua num sistema de turnos baseado em tempo ativo, isto é, o tempo de um turno depende dos atributos do animal de modo que animais mais rápidos podem atuar mais vezes por turno que um animal mais lento.
+- Não é possível capturar outros animais, mas é possível convidá-lo para integrar o bando.
+- A aceitação do convite é aleatória, no entanto, certos eventos podem aumentar ou diminuir as chances de sucesso.
+
+### Comandos
+
+A seguir são listadas as teclas de comandos do jogo com as suas respectivas descrições:
+
+- Os botões direcionais controlam a movimentação do animal orientada para frente ou para trás. Os botões <- e -> alteram a direção ou então efetuam um movimento caso o personagem já esteja orientado, por exemplo, se o animal está orientado para direita e a tecla -> é pressionada então o animal move-se uma casa para direita, mas se pressionarmos a direção oposta <- em vez do -> então o animal mudará de orientação para esquerda sem efetuar um movimento, porém, isso conta como um turno. Os botões acima ou abaixo movem o animal uma posição à frente para acima ou para abaixo respectivamente em relção a orientação.
+- '.' Ação de passar o turno. O usuário passa o turno atual recuperando pontos de vida e de ações.
+- 's' Exibe um menu com as estatísticas do animal ativo.
 
 ## Mecânicas do Jogo
 
