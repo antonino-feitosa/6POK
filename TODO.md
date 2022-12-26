@@ -81,6 +81,7 @@
 - [x] Está sendo disparada a colisão com outro objeto quando o animal colide com a borda do mapa.
 - [x] A grama não está escondendo os animais.
 - [ ] PHP está sendo processado uma única vez. Já testei deferentes pacotes como node-php, php-express, mas nenhum funcionou melhor que o SPHP. Testar node CGI implementando midlleware para processsar PHP ou então interceptar as páginas PHP substituindo-as por código JS.
+- [x] O animal não está mudando de orientação ao se mover para uma direção diferente.
 
 ### Future Works
 
