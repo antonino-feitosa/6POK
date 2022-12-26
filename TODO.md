@@ -49,6 +49,7 @@
     - [ ] Descansar
     - [ ] Procurar
     - [ ] Explorar
+- [ ] Transição de câmera quando houver mais de um jogador
 
 #### Próximos Passos
 
