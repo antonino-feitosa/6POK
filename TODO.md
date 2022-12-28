@@ -139,3 +139,7 @@
 [https://imgur.com/user/SadfaceRL]
 
 [https://github.com/Joncom/impact-font-sugar/blob/master/font-sugar.js]
+
+[https://impactjs.com/forums/code/persistence-save-load-level-state/page/1]
+
+[https://github.com/jmo84/persistence-impact]
