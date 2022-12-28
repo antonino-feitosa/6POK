@@ -22,7 +22,7 @@
 - [ ] Implementar ataque básico de investida;
 - [ ] Implementar sistema de batalha;
 - [ ] Implementar sistema de turnos em tempo ativo;
-- [ ] Implementar mensagem de feedback;
+- [x] Implementar mensagem de feedback;
 - [ ] Criar as fontes de energia;
 - [ ] Criar pedras de sal;
 - [ ] Implementar visualização do inventório;
@@ -52,7 +52,7 @@
     - [ ] Descansar
     - [ ] Procurar
     - [ ] Explorar
-- [ ] Implementar sistema de experiência.
+- [x] Implementar sistema de experiência.
 - [ ] Transição de câmera quando houver mais de um jogador.
 - [ ] Tratar o armazenamento de diferentes jogadores.
 - [ ] Menu de configurações do jogo alterando a velocidade de movimentação dos animais.
