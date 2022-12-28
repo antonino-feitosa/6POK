@@ -18,9 +18,12 @@
     - [ ] Tocas nas árvores;
     - [ ] Tocas nas rochas;
 - [x] Implementar a visibilidades nos esconderijos;
-- [ ] Implementar visualização das estatísticas;
+- [x] Implementar visualização das estatísticas;
+- [ ] Implementar ataque básico de investida;
+- [ ] Implementar sistema de batalha;
+- [ ] Implementar sistema de turnos em tempo ativo;
 - [ ] Implementar mensagem de feedback;
-- [ ] Criar as fontes;
+- [ ] Criar as fontes de energia;
 - [ ] Criar pedras de sal;
 - [ ] Implementar visualização do inventório;
 - [ ] Criar plantas;
@@ -49,7 +52,10 @@
     - [ ] Descansar
     - [ ] Procurar
     - [ ] Explorar
-- [ ] Transição de câmera quando houver mais de um jogador
+- [ ] Implementar sistema de experiência.
+- [ ] Transição de câmera quando houver mais de um jogador.
+- [ ] Tratar o armazenamento de diferentes jogadores.
+- [ ] Menu de configurações do jogo alterando a velocidade de movimentação dos animais.
 
 #### Próximos Passos
 
@@ -67,6 +73,8 @@
 - [ ] Criar malhas temáticas.
 - [ ] Determinar tipos.
 
+- [ ] Utilizar heat map path finding em relação ao personagem, objetivos (portal, distância segura de ataque) e adversários.
+
 
 - [ ] Planejar ataques temáticos por tipo
 - [ ] Planejar cenários temáticos
@@ -82,6 +90,7 @@
 - [x] A grama não está escondendo os animais.
 - [ ] PHP está sendo processado uma única vez. Já testei deferentes pacotes como node-php, php-express, mas nenhum funcionou melhor que o SPHP. Testar node CGI implementando midlleware para processsar PHP ou então interceptar as páginas PHP substituindo-as por código JS.
 - [x] O animal não está mudando de orientação ao se mover para uma direção diferente.
+- [ ] O personagem está sendo transportado para a área inicial ao usar um portal de retorno.
 
 ### Future Works
 
@@ -128,3 +137,5 @@
 [https://imgur.com/gallery/VN8e8t7]
 
 [https://imgur.com/user/SadfaceRL]
+
+[https://github.com/Joncom/impact-font-sugar/blob/master/font-sugar.js]
