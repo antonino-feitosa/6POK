@@ -1,50 +1,111 @@
-# arena-pok
 
-Inicialização aleatório como em jogos RogueLike.
+# Movimentos de Dano/Cura
 
-Distribuição de pontos maximizando um, dois, três, quatro, cinco e os seis atributos.
-Total: 2 * 6 + 2 * 15 + 2 * 20 = 82.
-
-Tipos básicos e seus pares de combinações.
-
-Cada animal terá sua variação para cada um dos tipos.
-
-3/6 (43) terão 2 evoluções, 2/6 (26) terão 1 evolução e 1/6 (13) não terá evoluções.
-
-Lista de Tipos
-
-Deserto (areia) - desértico
-Oceano (água) - aquático
-Montanha (rocha) - rochoso
-
-Floresta (grama) - florestal
-Planalto (ar) - elevado
-Caverna (escuridão) - sombrio
-
-Vulcão (fogo) - fervente
-Campo (normal) - abertas
-Neve (gelo) - gelado
-Cidade (elétrico) - urbanas
-
-Céu (sagrado) - Sagrado
-Inferno (profano) - Profano
-
-Magia (magia) - mágico
-Mente (psíquico) - imaginário
-Astral (fantasma) - astral
-
-- Subterrâneo
-
-
- 
+Os movimentos são caracterizados pelo efeito, tipo, categoria, potência, acurácia, carga, tempo de recarga, alvo, tipo de alcance e alcance.
+- Efeito determina o efeito do movimento sobre os animais e ambiente.
+- Tipo corresponde ao tipo do animal utilizado para calcular a efetividade do ataque;
+- Potência determina a quantidade de dano causado pelo ataque caso seja aplicável. Varia entre 10 e 200.
+    - Ataques múltiplos apresentam baixa potência, porém, a acuária não é máxima;
+    - Quanto maior a potência, menor a carga e maior o tempo de recarga;
+    - Movimentos de estado não possuem potência;
+- Acurácia determina a chance de acerto do movimento caso seja aplicável. 
+    - Movimentos de estado não possuem potência;
+- Carga determina quantas vezes o movimento pode ser aplicado;
+    - As cargas podem ser recuperadas descansando o tempo de recarga respectivo;
+- Tempo de recarga corresponde ao tempo que o animal deve descansar para recuperar uma carga do movimento;
+- Tipo de alcance do movimento determina como o movimento é aplicado no ambiente: radial, cone, frente;
+- Alcance do movimento determina a quantidade de posições de aplicação do movimento iniciando em zero (corporal);
+- Alvo determina sobre qual animal o movimento será aplicado:
+    - próprio animal
+    - aliado (mais próximo, distante, aleatório) dentro do alcance
+    - todos os aliados no alcance
+    - inimigo (mais próximo, distante, aleatório) dentro do alcance
+    - todos os inimigos no alcance
+    - prório animal e inimigo
+    - todos aliados
+    - todos (animal, aliados e inimigos)
 
 
 
+# Movimento de Estados
 
-A tabela de efetividade será preenchida aleatoriamente com 2/4 (28) dos valores 1, 1/4 (16) efetivo, 1/4 (16) inefetivo e 4 imunes.
-Total 64.
+Aumentar estatística
+Diminuir estatística
+Estatísticas secundárias: acurácia, evasão, acerto crítico, efeito da cura, efeito de dano
 
-21 pontos a serem distribuídos, sorteio entre 1 e 6 para cada característica
+
+# Movimento de locomoção
+
+Acelerar/retardar, saltar/jogar, empurrar/puxar, prender/liberar, imobilizar/mobilizar, segurar/soltar
+
+
+
+
+
+
+## Ataques Simples
+
+- Bater - Ataque Corporal
+
+
+####
+
+
+
+## Movimentos Simples
+
+Bater - Ataque corporal
+Atirar - Araque a distância
+Vingar - Inflige o dobro do ataque sofrido
+Ataque em dois turnos
+
+## Múltiplos Ataques
+
+## Ataques em Área
+
+## Defesas
+
+Defender o próximo ataque
+
+## Movimentos de Estatísticas
+
+Defender - Aumenta a defesa
+Focar - Aumenta o ataque
+Gritar - Diminui o ataque do adversário
+Cegar - Diminui o chance de acerto do inimigo por alguns turnos
+Confundir - O inimigo ocasionalmente se ataca
+
+Defesa
+Ataque
+Velocidade
+HP
+Acurácia
+Crítico
+Evasão
+
+Movimentos de Locomoção
+
+Correr - Mover-se
+Pular - Salta posições podendo passar por outros animais
+Empurrar - Empurra o adversário algumas posições
+Puxar - Puxa o adversãrio algumas posições
+Prender - O inimigo não pode se mover por alguns turnos
+Paralisar - O inimgo ocasionalmente falha ao tentar se mover
+Segurar - O inimigo não pode se distanciar por alguns turnos
+Atrasar - O inimigo move-se mais lento por alguns turnos
+
+
+Movimentos de Vida
+Curar-se - Recupera pontos de vida
+Absorver - Drena pontos de vida do inimigo
+
+
+Movimentos de Equipes
+
+Chamar - Chama animais próximos para auxiliar
+
+
+
 
 
 

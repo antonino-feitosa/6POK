@@ -21,6 +21,8 @@
 - [x] Implementar visualização das estatísticas;
 - [ ] Implementar ataque básico de investida;
 - [ ] Implementar sistema de batalha;
+- [ ] Implementar feedback de pontos de dano;
+- [ ] Implementar feedback de vitória;
 - [ ] Implementar sistema de turnos em tempo ativo;
 - [x] Implementar mensagem de feedback;
 - [ ] Criar as fontes de energia;
@@ -90,7 +92,7 @@
 - [x] A grama não está escondendo os animais.
 - [ ] PHP está sendo processado uma única vez. Já testei deferentes pacotes como node-php, php-express, mas nenhum funcionou melhor que o SPHP. Testar node CGI implementando midlleware para processsar PHP ou então interceptar as páginas PHP substituindo-as por código JS.
 - [x] O animal não está mudando de orientação ao se mover para uma direção diferente.
-- [ ] O personagem está sendo transportado para a área inicial ao usar um portal de retorno.
+- [x] O personagem está sendo transportado para a área inicial ao usar um portal de retorno.
 
 ### Future Works
 

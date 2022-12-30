@@ -65,6 +65,7 @@ Além disso, os cenários podem apresentar diferentes temáticas:
 - Campo (normal) - abertas
 - Neve (gelo) - polar
 - Cidade (elétrico) - urbanas
+- Aterro (veneno) - tóxico
 - Céu (sagrado) - Sagrado
 - Inferno (profano) - Profano
 - Magia (magia) - mágico
@@ -102,25 +103,16 @@ Em que PV corresponde à estatística dos pontos de vida e OTHERS corresponde à
 #### Natureza
 
 A natureza de um animal influencia o desenvolvimento de suas características com exceção dos pontos de vida.
-Logo, temos um total de 25 naturezas e cada uma aumenta uma estatística em 10% e diminui outra em 10%.
-
-<table>
-    <thead>
-        <tr><th colspan="7">Tabela de Natureza</th></tr>
-    </thead>
-    <tbody>
-        <tr><td></td><td></td><td colspan="5" style="text-align: center;">Aumento da Estatística</td></tr>
-        <tr><td></td><td>x</td><td>AF</td><td>DF</td><td>AE</td><td>DE</td><td>VL</td></tr>
-        <tr><td rowspan="6" style="writing-mode: vertical-lr;">Diminuição da Estatística</td><td>AF</td><td>Resistente</td><td>Solitário</td><td>Determinado</td><td>Desobidiente</td><td>Corajoso</td></tr>
-        <tr><td>DF</td><td>Ousado</td><td>Dócil</td><td>Travesso</td><td>Descontraído</td><td>Relaxado</td></tr>
-        <tr><td>AE</td><td>Modesto</td><td>Manso</td><td>Acanhado</td><td>Impetuoso</td><td>Quieto</td></tr>
-        <tr><td>DE</td><td>Calmo</td><td>Gentil</td><td>Atento</td><td>Excêntrico</td><td>Atrevido</td></tr>
-        <tr><td>VL</td><td>Tímido</td><td>Precipitado</td><td>Contente</td><td>Ingênuo</td><td>Sério</td></tr>
-    </tbody>
-</table>
-
+Logo, temos um total de 25 naturezas e cada uma aumenta uma estatística em 10% e diminui outra em 10%. Assim, cada natureza está associada a um par de estatísticas escolhidas aleatoriamente sem repetição. Os nomes das naturezas são: Resistente, Solitário, Determinado, Desobidiente, Corajoso, Ousado, Dócil, Travesso, Descontraído, Relaxado, Modesto, Manso, Acanhado, Impetuoso, Quieto, Calmo, Gentil, Atento, Excêntrico, Atrevido, Tímido, Precipitado, Contente, Ingênuo e Sério.
  
- ### Referências
+#### Ataques
 
- [https://github.com/phoboslab/Impact]
+
+
+### Detalhes de Implementação
+
+  
+### Referências
+
+[https://github.com/phoboslab/Impact]
  
