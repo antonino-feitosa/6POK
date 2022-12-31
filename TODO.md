@@ -55,6 +55,7 @@
     - [ ] Procurar
     - [ ] Explorar
 - [x] Implementar sistema de experiência.
+- [ ] Implementar diálogo entre animais.
 - [ ] Transição de câmera quando houver mais de um jogador.
 - [ ] Tratar o armazenamento de diferentes jogadores.
 - [ ] Menu de configurações do jogo alterando a velocidade de movimentação dos animais.
