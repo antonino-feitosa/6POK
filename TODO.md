@@ -59,6 +59,11 @@
 - [ ] Transição de câmera quando houver mais de um jogador.
 - [ ] Tratar o armazenamento de diferentes jogadores.
 - [ ] Menu de configurações do jogo alterando a velocidade de movimentação dos animais.
+- [ ] Diálogo monstrando somente um intervalo de opções usando acima e abaixo para visualizar as demais opções.
+- [ ] Implementar a troca de diálogos usando mensagens.
+- [ ] Refatorar o menu de estatísticas para ser um TextOptions.
+- [ ] Implementar diálogos encadeados avançando e cancelando.
+- [ ] Implementar diálogos com outras entidades.
 
 #### Próximos Passos
 

@@ -1,4 +1,25 @@
 
+
+# Menu de Opções
+
+> Animal
+> Bag
+> Movimento
+    > Nome
+    > Carga
+    > Tipo
+    < Feedback (dano, effetivo, crítico, faint)
+
+
+# Menu de Animais
+
+Animal, nível, HP
+
+
+
+
+
+
 # Movimentos de Dano/Cura
 
 Os movimentos são caracterizados pelo efeito, tipo, categoria, potência, acurácia, carga, tempo de recarga, alvo, tipo de alcance e alcance.
