@@ -19,11 +19,12 @@
     - [ ] Tocas nas rochas;
 - [x] Implementar a visibilidades nos esconderijos;
 - [x] Implementar visualização das estatísticas;
-- [ ] Implementar ataque básico de investida;
+- [x] Implementar ataque básico de investida;
 - [ ] Implementar sistema de batalha;
 - [ ] Implementar feedback de pontos de dano;
 - [ ] Implementar feedback de vitória;
-- [ ] Implementar sistema de turnos em tempo ativo;
+- [x] Implementar sistema de turnos em tempo ativo;
+- [ ] Aplicar sistema de turnos em tempo ativo;
 - [x] Implementar mensagem de feedback;
 - [ ] Criar as fontes de energia;
 - [ ] Criar pedras de sal;
@@ -59,9 +60,9 @@
 - [ ] Transição de câmera quando houver mais de um jogador.
 - [ ] Tratar o armazenamento de diferentes jogadores.
 - [ ] Menu de configurações do jogo alterando a velocidade de movimentação dos animais.
-- [ ] Diálogo monstrando somente um intervalo de opções usando acima e abaixo para visualizar as demais opções.
+- [x] Diálogo monstrando somente um intervalo de opções usando acima e abaixo para visualizar as demais opções.
 - [ ] Implementar a troca de diálogos usando mensagens.
-- [ ] Refatorar o menu de estatísticas para ser um TextOptions.
+- [x] Refatorar o menu de estatísticas para ser um TextOptions.
 - [ ] Implementar diálogos encadeados avançando e cancelando.
 - [ ] Implementar diálogos com outras entidades.
 
