@@ -70,17 +70,17 @@
 
 - [ ] Adicionar comportamentos na classe de animais que podem ser selecionados pelo settings. Por exemplo, o comportamento jogador direciona as ações para as entradas do usuário sobrescevendo o método process.
 
-- [ ] Criar grupo de entidades que compartilham o mesmo idgroup no mapa.
+- [x] Criar grupo de entidades que compartilham o mesmo idgroup no mapa.
 - [ ] Criar mapa de testes.
-- [ ] Criar aleatorização dos animais.
-- [ ] Criar classe de animais.
-- [ ] Criar atributos.
+- [x] Criar aleatorização dos animais.
+- [x] Criar classe de animais.
+- [x] Criar atributos.
 - [ ] Criar malha com animais.
-- [ ] Criar sistema de turnos em tempo ativo.
-- [ ] Criar esconderijos.
-- [ ] Criar portais.
+- [x] Criar sistema de turnos em tempo ativo.
+- [x] Criar esconderijos.
+- [x] Criar portais.
 - [ ] Criar malhas temáticas.
-- [ ] Determinar tipos.
+- [x] Determinar tipos.
 
 - [ ] Utilizar heat map path finding em relação ao personagem, objetivos (portal, distância segura de ataque) e adversários.
 
@@ -108,6 +108,7 @@
         - [] weltmeister: 315
         - [x] weltmeister: 462
     - Aparentemente o problema foi resolvido somente com o código para save.php.
+    - O problema continua em GLOB.php durante a abertura do weltmeister após um erro
 
 ### Future Works
 
