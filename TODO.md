@@ -30,6 +30,7 @@
 - [ ] Criar pedras de sal;
 - [ ] Implementar visualização do inventório;
 - [ ] Criar plantas;
+    - [x] Criar entidade das plantas.
     - [ ] Criar frutas e sementes;
     - [ ] Criar folhas, flores, néctar e pólen;
     - [ ] Criar raízes;
@@ -65,6 +66,7 @@
 - [x] Refatorar o menu de estatísticas para ser um TextOptions.
 - [ ] Implementar diálogos encadeados avançando e cancelando.
 - [ ] Implementar diálogos com outras entidades.
+- [ ] Mover os dados salvos para um script carregado no início do jogo na página HTML.
 
 #### Próximos Passos
 
@@ -93,13 +95,14 @@
 
 ### Issues
 
+- [ ] Os movimentos não estão sendo carregados.
 - [x] O animal move-se uma vez a cada duas do jogador;
 - [x] O jogador deve mudar de direção oposta sem se mover;
 - [x] Está sendo disparada a colisão com outro objeto quando o animal colide com a borda do mapa.
 - [x] A grama não está escondendo os animais.
 - [x] O animal não está mudando de orientação ao se mover para uma direção diferente.
 - [x] O personagem está sendo transportado para a área inicial ao usar um portal de retorno.
-- [x] PHP está sendo processado uma única vez. Já testei deferentes pacotes como node-php, php-express, mas nenhum funcionou melhor que o SPHP. Testar node CGI implementando midlleware para processsar PHP ou então interceptar as páginas PHP substituindo-as por código JS.
+- [ ] PHP está sendo processado uma única vez. Já testei deferentes pacotes como node-php, php-express, mas nenhum funcionou melhor que o SPHP. Testar node CGI implementando midlleware para processsar PHP ou então interceptar as páginas PHP substituindo-as por código JS.
     - Alterar o backend para nodejs (código do weltmeister).
     - Alterar path no config.js
     - Alterar consultas ajax
